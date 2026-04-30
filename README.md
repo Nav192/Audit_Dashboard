@@ -1,5 +1,4 @@
 # Dashboard Audit Tata Kelola TI - COBIT 2019
-## PT Batu Karang Group
 
 Dashboard interaktif hasil audit tata kelola Teknologi Informasi berdasarkan COBIT 2019 — versi sederhana untuk manajemen.
 
@@ -179,24 +178,3 @@ Edit sesuai laporan audit perusahaan Anda.
 - **Chart.js 4.4** + react-chartjs-2 — visualisasi grafik
 
 ---
-
-## 📋 Perubahan dari Versi Sebelumnya
-
-❌ **Dihapus:**
-- Filter Controls (departemen, kategori, timeline)
-- Semua chart kompleks (radar, pie, multi-line detailed)
-- Moderate/Low risk table (focus hanya Critical & High)
-- Medium/Low priority recommendations
-
-✅ **Disederhanakan:**
-- Overview: hanya key highlights
-- Assessment: bar chart horizontal saja
-- Risk: focus 7 risiko tinggi + risk matrix sederhana
-- RCA: 5 penyebab utama
-- Recommendations: 5 prioritas tinggi (sangat ringkas)
-
-**Tujuan:** Presentasi manajemen — cepat dipahami, fokus pada prioritas.
-
----
-
-**Dashboard siap untuk presentasi ke manajemen PT Batu Karang Group.**
