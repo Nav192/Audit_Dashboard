@@ -228,7 +228,7 @@ export const auditData = {
       cause: "Pencatatan & proses manual (Excel/paper)",
       count: 9,
       impact: "Tinggi",
-      description: "80% proses masih manual",
+      description: "Proses masih manual",
     },
     {
       cause: "Tidak ada sistem terintegrasi",
@@ -277,8 +277,6 @@ export const auditData = {
         "Proses bisnis belum didokumentasi dalam SOP",
         "Tidak ada kontrol proses untuk validasi data",
         "Business processes tidak terintegrasi dengan IT",
-        "No process owners yang jelas ditunjuk",
-        "Tidak ada measurement & monitoring process performance",
       ],
     },
     {
